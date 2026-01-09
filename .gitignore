@@ -1,2 +1,3 @@
 # POC documentation (company internal)
-docs/
+# docs/ - Commented out to allow package documentation
+# The package documentation in docs/packages/ should be committed
